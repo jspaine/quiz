@@ -1,0 +1,9 @@
+[
+  {
+    "question": "Who foo?",
+    "answers": ["foo", "bar", "baz"]
+  }, {
+    "question": "What baz?",
+    "answers": ["qux", "bazza", "bazar"]
+  }
+]
